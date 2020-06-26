@@ -1,0 +1,10 @@
+Learn Rate  	1.0e-05
+Epochs  	00030
+Log Path 	./models
+Network 	 VGG
+Data Set 	 sign
+Batch Size  	 256
+Loss Function 	TMContrastiveLoss
+Begin to fine tune VGG Network
+########################################
+initial model is save at ./models
